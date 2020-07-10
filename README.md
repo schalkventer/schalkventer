@@ -1,4 +1,4 @@
-**Hello internet-friend!**
+# Hello internet-friend!
    
 **I'm a [Cape Town, South Africa](https://en.wikipedia.org/wiki/Cape_Town) based, UI Designer/Front-end Developer, spending the majority of my time on either of the following:**
 
