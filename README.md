@@ -8,4 +8,4 @@
 
 - 🦄 Doing freelance consultation and/or contract work on for clients.
 
-_If you find any of the above interesting you might want to follow me on Github - where all of this takes place._
+_If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
