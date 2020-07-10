@@ -6,6 +6,6 @@
     
 - 👪 Exploring the intersection between technology, social good and civic engagement alongside my friends at [Codebridge](https://www.meetup.com/Codebridge/) and [OpenUp](https://openup.org.za/).
 
-- 🦄 Doing freelance consultation and/or contract work on web projects.
+- 🦄 Doing freelance consultation and/or contract work on for clients.
 
 _If you find any of the above interesting you might want to follow me on Github - where all of this takes place._
