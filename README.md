@@ -1,6 +1,6 @@
 # Hello internet-friend!
    
-**I'm a [Cape Town, South Africa](https://en.wikipedia.org/wiki/Cape_Town) based, UI Designer/Front-end Developer, spending the majority of my time on either of the following:**
+**I'm a South African UI Designer/Front-end Developer, spending the majority of my time on either of the following:**
 
 - 🌍 Managing [Front-end Development South Africa (FEDSA))[https://www.meetup.com/ctfeds], a non-profit organisation I co-founded with two of my friends.
     
