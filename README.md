@@ -2,7 +2,7 @@
    
 **I'm a South African UI Designer/Front-end Developer, spending the majority of my time on the following:**
 
-- 🌍 Managing [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation I co-founded with two of my friends.
+- 🌍 Managing [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation I co-founded with my friends @ShailenNaidoo and @justinslack.
     
 - 👪 Exploring the intersection between technology, social good and civic engagement alongside my friends at [Codebridge](https://www.meetup.com/Codebridge/) and [OpenUp](https://openup.org.za/).
 
