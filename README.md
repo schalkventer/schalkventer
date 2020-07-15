@@ -1,6 +1,6 @@
 # Hello internet-friend!
 
-[![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/afuwape-adefemi-micheal/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer)
+[![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/schalkventer/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer)
 
 **I'm a South African UI Designer/Front-end Developer, spending the majority of my time on the following:**
 
