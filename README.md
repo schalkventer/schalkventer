@@ -10,6 +10,8 @@
 
 - 🦄 Doing freelance consultation and/or contract work on for clients.
 
+- 📚 Overseeing the 3-year Interaction Design curriculum and elective modules at [Cape Town Creative Academy](https://creativeacademy.ac.za/)
+
 _If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
