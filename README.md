@@ -10,7 +10,7 @@
 
 - 🦄 Doing freelance consultation and/or contract work on commercial projects.
 
-- 📚 Redesigning the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
+- 📚 Redesigning the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (SAQA ID: 91116, NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
 _If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
 
