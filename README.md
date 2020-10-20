@@ -8,7 +8,7 @@
     
 - 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/) and [Codebridge](https://www.meetup.com/Codebridge/).
 
-- 🦄 Doing freelance consultation and/or contract work for commercial clients.
+- 🦄 Doing freelance consultation and/or contract work on commercial projects.
 
 - 📚 Overseeing the 3-year Interaction Design curriculum and elective modules at [Cape Town Creative Academy](https://creativeacademy.ac.za/)
 
