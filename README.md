@@ -12,7 +12,7 @@
 
 - 📚 Redesigning the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
-- 🐣 Doing 1-on-1 code mentoring at [CodeSpace](https://www.codespace.co.za)
+- 🐣 Doing 1-on-1 virtual mentoring at [CodeSpace](https://www.codespace.co.za)
 
 _If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
 
