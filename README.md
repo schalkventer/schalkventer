@@ -10,7 +10,7 @@
 
 - 🦄 Doing freelance consultation and/or contract work on commercial projects.
 
-- 📚 Overseeing the 3-year Interaction Design curriculum and elective modules at [Cape Town Creative Academy](https://creativeacademy.ac.za/)
+- 📚 Redesigning the [Bachelor of Arts in Interaction Design] degree alongside [Carly Withtaker](http://carlywhitaker.co.za/) at [CTCA](https://creativeacademy.ac.za/)
 
 _If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
 
