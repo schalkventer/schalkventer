@@ -6,7 +6,7 @@
 
 - 👪 Managing [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation I co-founded with my [@shailennaidoo](https://github.com/shailennaidoo) and [@justinslack](https://github.com/justinslack).
     
-- 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge community](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
+- 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
 
 - 🦄 Doing freelance consultation and/or contract work on commercial projects.
 
