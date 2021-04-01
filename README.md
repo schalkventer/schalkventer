@@ -18,8 +18,6 @@
 
 - 🦄 Freelance front-end development, UI/UX and product design contractor/consultant.
 
-_If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
-
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
-For everything else check out [https://schalkventer.me](https://schalkventer.me).
+If you find any of the above interesting you might want to follow me here on Github - where all of this takes place. For everything else check out [https://schalkventer.me](https://schalkventer.me).
