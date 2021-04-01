@@ -8,13 +8,13 @@
     
 - 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
 
-- 🦄 Doing freelance consultation and/or contract work on commercial projects.
-
 - 📚 Redesigning the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
 - 🐣 Exploring the intersection of youth unemployment and the critical programming skills gap as Workplace Incubator program-lead at [codeX](http://www.projectcodex.co/)
 
 - 🏀 Doing 1-on-1 coaching at [CodeSpace](https://www.codespace.co.za)
+
+- 🦄 Doing freelance consultation and/or contract work on commercial projects.
 
 _If you find any of the above interesting you might want to follow me here on Github - where all of this takes place._
 
