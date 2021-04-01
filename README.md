@@ -4,7 +4,7 @@
 
 **I'm a South African Interface Designer & Front-end Developer, spending the majority of my time on the following:**
 
-- 👪 Managing [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation (NPC No. 202015998708) I co-founded with my [@shailennaidoo](https://github.com/shailennaidoo) and [@justinslack](https://github.com/justinslack).
+- 👪 Managing [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation (NPC #202015998708) I co-founded with my [@shailennaidoo](https://github.com/shailennaidoo) and [@justinslack](https://github.com/justinslack).
     
 - 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
 
