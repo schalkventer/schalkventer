@@ -20,4 +20,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
-If you find any of the above interesting you might want to follow me here on Github - where all of this takes place. For everything else check out [https://schalkventer.me](https://schalkventer.me).
+If you find any of the above interesting you might want to follow me here on Github - where most of this takes place. For everything else check out [https://schalkventer.me](https://schalkventer.me).
