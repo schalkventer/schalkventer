@@ -10,7 +10,7 @@
 
 - 🐣 Exploring the intersection of youth unemployment and the critical programming skills gap as Workplace Incubator program-lead at [codeX](http://www.projectcodex.co/)
 
-- 📚 Redesigning the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
+- 📚 Creating the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
 - 🎨 Teaching Web Development and Product Design at [Academy of Digital Arts](https://www.ada.ac.za)
 
