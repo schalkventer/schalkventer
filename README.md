@@ -6,7 +6,7 @@
 
 - 👪 Head of Operations at [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
     
-- 🔨 Maintaining and developing free, open-source tooling like [Phasi](https://github.com/schalkventer/phasi) and [Faker Extra](https://github.com/schalkventer/faker-extra).
+- 🔨 Maintaining and publishing free, open-source tools like [Phasi](https://github.com/schalkventer/phasi) and [Faker Extra](https://github.com/schalkventer/faker-extra).
     
 - 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
 
