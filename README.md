@@ -14,9 +14,9 @@
 
 - 📚 Creating the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
-- 🎨 Teaching Web Development and Product Design at [Academy of Digital Arts](https://www.ada.ac.za)
+- 🎨 Teaching Web Development and Product Design (NQF LEVEL 5) at [Academy of Digital Arts](https://www.ada.ac.za)
 
-- 🏀 Doing 1-on-1 coaching at [CodeSpace](https://www.codespace.co.za)
+- 🏀 Creating curriculum material and doing 1-on-1 coaching at [CodeSpace](https://www.codespace.co.za)
 
 - 🦄 Freelance front-end development, UI/UX and product design contractor/consultant.
 
