@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/schalkventer/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer) [![](http://img.shields.io/badge/@schalkventer-red?logo=npm)](https://www.npmjs.com/~schalkventer)
 
-**I'm a developer & designer based in Cape Town, South Africa.
+**I'm a developer & designer based in Cape Town, South Africa.**
 
 **I spent the majority of my time doing front-end development, product design, managing communities and mentoring others.**
 
