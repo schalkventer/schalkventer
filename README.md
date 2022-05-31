@@ -25,3 +25,8 @@ _If you find any of the above interesting you might want to follow me here on Gi
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
 For everything else check out [https://schalkventer.me](https://schalkventer.me).
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
