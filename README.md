@@ -26,7 +26,7 @@ _If you find any of the above interesting you might want to follow me here on Gi
 
 For everything else check out [https://schalkventer.me](https://schalkventer.me).
 
-# Todoist Stats
+# Work
 
 <!-- TODO-IST:START -->
 🏆  2,947 Karma Points           
