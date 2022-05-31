@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/schalkventer/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer) [![](http://img.shields.io/badge/@schalkventer-red?logo=npm)](https://www.npmjs.com/~schalkventer)
 
-**I'm a South African Interface Designer & Front-end Developer, spending the majority of my time on the following:**
+**I'm a developer & designer based in Cape Town, South Africa. I spent the majority of my time doing front-end development, product design, managing communities and mentoring others. I spend the majority of my time on the following:**
 
 - 👪 Head of Operations at [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
     
