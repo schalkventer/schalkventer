@@ -26,7 +26,7 @@ _If you find any of the above interesting you might want to follow me here on Gi
 
 For everything else check out [https://schalkventer.me](https://schalkventer.me).
 
-# Work
+# Productivity
 
 <!-- TODO-IST:START -->
 🏆  3,471 Karma Points           
