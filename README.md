@@ -31,11 +31,11 @@ For everything else check out [https://schalkventer.me](https://schalkventer.me)
 # Productivity
 
 <!-- TODO-IST:START -->
-🏆  3,687 Karma Points           
-🌸  Completed 3 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 42 tasks so far           
-⏳  Longest streak is 2 days
+🏆  3,711 Karma Points           
+🌸  Completed 5 tasks today           
+🗓  Completed 17 tasks this week           
+✅  Completed 44 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
 _Updated real-time from Todoist_
