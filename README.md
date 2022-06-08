@@ -35,7 +35,7 @@ For everything else check out [https://schalkventer.me](https://schalkventer.me)
 🌸  Completed 6 tasks today           
 🗓  Completed 21 tasks this week           
 ✅  Completed 69 tasks so far           
-⏳  Longest streak is 6 days
+⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
 
 _Updated real-time from Todoist_
