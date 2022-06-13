@@ -31,10 +31,10 @@ For everything else check out [https://schalkventer.me](https://schalkventer.me)
 # Productivity
 
 <!-- TODO-IST:START -->
-🏆  4,391 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 75 tasks so far           
+🏆  4,415 Karma Points           
+🌸  Completed 7 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 82 tasks so far           
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
 
