@@ -31,7 +31,7 @@ For everything else check out [https://schalkventer.me](https://schalkventer.me)
 # Productivity
 
 <!-- TODO-IST:START -->
-🏆  4,952 Karma Points           
+🏆  5,000 Karma Points           
 🌸  Completed 9 tasks today           
 🗓  Completed 10 tasks this week           
 ✅  Completed 120 tasks so far           
