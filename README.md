@@ -32,7 +32,7 @@ For everything else check out [https://schalkventer.me](https://schalkventer.me)
 
 <!-- TODO-IST:START -->
 🏆  5,064 Karma Points           
-🌸  Completed 26 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 26 tasks this week           
 ✅  Completed 146 tasks so far           
 ⏳  Longest streak is 7 days
