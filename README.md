@@ -4,15 +4,15 @@
 
 **I'm a developer & designer based in Cape Town, South Africa.**
 
-I general find myself with the world of front-end development, product design, managing communities and mentoring others.
+I general find myself within the worlds of front-end development, product design, managing of communities and mentoring others.
 
-## Current Things:
+## Currently:
 
-- 👪 _Administrative Director_ at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
+- 👪 **_Administrative Director_** at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
 
-- 📈 _UI Engineering Lead_ at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot Seller API in order to provide merchants with actionable data analysis, filters and alerts. 
+- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot Seller API in order to provide merchants with actionable data analysis, filters and alerts. 
 
-- 🎓 _Academic Head_ at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) based organization that provides promising candidates access to a Software Engineering programme for free, which they repay partially as part of their salary only if (and when) they are employment in the field.
+- 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) based organization that provides promising candidates access to a Software Engineering programme for free, which they repay partially as part of their salary only if (and when) they are employment in the field.
 
 - 🧠 Developing supporting resources and destigmatising mental illness within the South Africa tech industry at [Sourcemaps](http://sourcemaps.org)
     
