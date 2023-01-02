@@ -8,15 +8,15 @@ I general find myself within the worlds of front-end development, product design
 
 ## Currently:
 
-- 👪 **_Administrative Director_** at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
+- 👪 **_Administrative Director_** at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC #: _202015998708_) acting as an administrative umbrella for various projects that facilitate sharing of knowledge between practitioner and aspiring practitioner within the South Africa field of front-end development .
 
-- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot Seller API in order to provide merchants with actionable data analysis, filters and alerts. 
+- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot API as a means to provide merchants with actionable data analysis, filters and alerts. 
 
-- 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) based organization that provides promising candidates access to a Software Engineering programme for free, which they repay partially as part of their salary only if (and when) they are employment in the field.
+- 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially then partially repay as part of their salary once they are employed in their field of studyd.
 
-- 🧠 Developing supporting resources and destigmatising mental illness within the South Africa tech industry at [Sourcemaps](http://sourcemaps.org)
-    
-- 👾 Creating VS Code extensions that gamify the process of learning JavaScrip at [Learn JS](https://github.com/schalkventer/learn-js)
+- 🔐 **_Product Design Lead_** at [Umazi](https://www.umazi.io), a digital-identity platform that provide the means to share verified identity data securely in a decentralised manner.
+
+- 🧠 Creating resources and attempting to destigmatise mental illness within the South Africa tech industry by means of [Sourcemaps](http://sourcemaps.org)
 
 ## Previous Things:
 
