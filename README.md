@@ -4,11 +4,9 @@
 
 **I'm a developer & designer based in Cape Town, South Africa.**
 
-**I general find myself with the world of front-end development, product design, managing communities and mentoring others.**
+I general find myself with the world of front-end development, product design, managing communities and mentoring others.
 
 ## Current Things:
-
-At this moment I am actively spending my time on the following:**
 
 - 👪 _Administrative Director_ at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
 
