@@ -24,7 +24,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as _Front-end Lead_ at [OpenUp](https://openup.org.za/) and _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- 🐣 _Programme Coordinator_ for Workplace Incubator at [codeX](http://www.projectcodex.co/) with funding from [The Google Foundation](https://www.google.org/)
+- 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
