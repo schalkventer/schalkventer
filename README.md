@@ -4,7 +4,11 @@
 
 **I'm a developer & designer based in Cape Town, South Africa.**
 
-**I general find myself with the world of front-end development, product design, managing communities and mentoring others. At this moment I am actively spending my time on the following:**
+**I general find myself with the world of front-end development, product design, managing communities and mentoring others.**
+
+## Current Things:
+
+At this moment I am actively spending my time on the following:**
 
 - 👪 _Administrative Director_ at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
 
@@ -16,7 +20,7 @@
     
 - 👾 Creating VS Code extensions that gamify the process of learning JavaScrip at [Learn JS](https://github.com/schalkventer/learn-js)
 
-Some things I've done in the past:
+## Previous Things:
 
 - 📚 Creation of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
