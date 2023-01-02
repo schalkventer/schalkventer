@@ -16,7 +16,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 🔐 **_Product Design Lead_** at [Umazi](https://www.umazi.io), a digital-identity platform that provide the means to share verified identity data securely in a decentralised manner.
 
-- 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org) a repository of resources and interviews about mental health in the South Africa tech industry as a means to provide support and destigmatise mental illness.
+- 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org), a collection of resources and interviews about mental health in the South Africa tech industry as a means to provide support and destigmatise mental illness.
 
 ## Previous Things:
 
