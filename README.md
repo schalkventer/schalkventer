@@ -4,38 +4,26 @@
 
 **I'm a developer & designer based in Cape Town, South Africa.**
 
-**I spent the majority of my time doing front-end development, product design, managing communities and mentoring others.**
+**I general find myself with the world of front-end development, product design, managing communities and mentoring others. At this moment I am actively spending my time on the following:**
 
-- 👪 Head of Operations at [Front-end Development South Africa (FEDSA)](https://www.meetup.com/ctfeds), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
+- 👪 _Administrative Director_ at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC No: _202015998708_) that serves as an administrative umbrella for projects that advance the sharing of knowledge between practitioner and aspiring practitioner within the South Africa front-end development industry.
+
+- 📈 _UI Engineering Lead_ at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot Seller API in order to provide merchants with actionable data analysis, filters and alerts. 
+
+- 🎓 _Academic Head_ at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) based organization that provides promising candidates access to a Software Engineering programme for free, which they repay partially as part of their salary only if (and when) they are employment in the field.
+
+- 🧠 Developing supporting resources and destigmatising mental illness within the South Africa tech industry at [Sourcemaps](http://sourcemaps.org)
     
-- 🔨 Maintaining and publishing free, open-source tools like [Phasi](https://github.com/schalkventer/phasi) and [Faker Extra](https://github.com/schalkventer/faker-extra).
-    
-- 🌍 Exploring the intersection between technology, social good and civic-engagement with [@jdbothma](https://github.com/jbothma) via [OpenUp](https://openup.org.za/), [Codebridge](https://www.meetup.com/Codebridge/) and the [techforgood.org.za](http://techforgood.org.za/).
+- 👾 Creating VS Code extensions that gamify the process of learning JavaScrip at [Learn JS](https://github.com/schalkventer/learn-js)
 
-- 🐣 Exploring the intersection of youth unemployment and the critical programming skills gap as Workplace Incubator program-lead at [codeX](http://www.projectcodex.co/)
+Some things I've done in the past:
 
-- 📚 Creating the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) degree (NQF LEVEL 7) at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
+- 📚 Creation of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
-- 🎨 Teaching Web Development and Product Design (NQF LEVEL 5) at [Academy of Digital Arts](https://www.ada.ac.za)
+- 🌍 Exploring the intersection between technology, social good and civic-engagement as _Front-end Lead_ at [OpenUp](https://openup.org.za/) and _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- 🏀 Creating curriculum material and doing 1-on-1 coaching at [CodeSpace](https://www.codespace.co.za)
-
-- 🦄 Freelance front-end development, UI/UX and product design contractor/consultant.
-
-_If you find any of the above interesting you might want to follow me here on Github - where most of this takes place._
+- 🐣 _Programme Coordinator_ for Workplace Incubator at [codeX](http://www.projectcodex.co/) with funding from [The Google Foundation](https://www.google.org/)
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
-For everything else check out [https://schalkventer.me](https://schalkventer.me).
-
-# Productivity
-
-<!-- TODO-IST:START -->
-🏆  6,443 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 196 tasks so far           
-⏳  Longest streak is 7 days
-<!-- TODO-IST:END -->
-
-_Updated real-time from Todoist_
+For everything else and check out [https://schalkventer.me](https://schalkventer.me).
