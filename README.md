@@ -22,7 +22,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 📚 Creation of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
-- 🏛️ Software Development for [South African National Treasury] as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
+- 🏛️ Software Development for [South African National Treasury](https://www.treasury.gov.za/) as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
 
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
 
