@@ -22,13 +22,13 @@ I general find myself within the worlds of front-end development, product design
 
 - 📚 Creation of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
-- 🏛️ Software Development for South African National Treasury as 
-
-- 🌍 Exploring the intersection between technology, social good and civic-engagement as _Front-end Lead_ at [OpenUp](https://openup.org.za/) and _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
+- 🏛️ Software Development for [South African National Treasury] as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
 
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
 
-- ✍️ Technical writing for Replit as part of the team at Ritza. 
+- 🌍 Exploring the intersection between technology, social good and civic-engagement as _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
+
+- ✍️ Technical writing for [Replit](#) as part of the team at Ritza. 
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
