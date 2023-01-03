@@ -28,7 +28,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- ✍️ Technical writing for [Replit](#) as part of the team at Ritza. 
+- ✍️ Technical writing for [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
