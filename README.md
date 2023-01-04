@@ -10,7 +10,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 👪 **_Administrative Director_** at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC #: _202015998708_) acting as an administrative umbrella for various projects that facilitate sharing of knowledge between practitioner and aspiring practitioner within the South Africa field of front-end development .
 
-- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that integrates with the Takealot API as means to provide merchants with actionable data analysis, filters and alerts. 
+- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
 - 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay only as part of their salary once employed in their field of study.
 
