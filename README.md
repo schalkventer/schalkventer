@@ -12,23 +12,23 @@ I general find myself within the worlds of front-end development, product design
 
 - 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
-- 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay only as part of their salary once employed in their field of study.
+- 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
 
-- 🔐 **_Product Design Lead_** at [Umazi](https://www.umazi.io), a digital-identity platform allowing the sharing of verified identity data securely in a decentralised manner.
+- 🔐 **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
 
-- 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org), a collection of resources and interviews about mental health in the South Africa tech industry as a means to provide support and destigmatise mental illness.
+- 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org), a collection of resources and interviews on mental health and vurnerability within the South Africa tech industry as a means to provide support and destigmatise mental illness.
 
 ## Previously:
 
-- 📚 Creation of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
+- 📚 **Co-creator** of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
 - 🏛️ Software Development for [South African National Treasury](https://www.treasury.gov.za/) as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
 
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
 
-- 🌍 Exploring the intersection between technology, social good and civic-engagement as _Community Manager_ at [Codebridge](https://www.meetup.com/Codebridge/)
+- 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- ✍️ Technical writing for [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
+- ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/) and [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
