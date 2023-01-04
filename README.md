@@ -2,7 +2,7 @@
 
 **I'm a developer/designer based in Cape Town, South Africa.** <img align="right" src="https://github.com/schalkventer/schalkventer.me/blob/master/logo.png" width="125"> 
 
-![](https://img.shields.io/github/followers/schalkventer?label=Follow%20me%20on%20Github&style=social) [![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/schalkventer/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer) [![](http://img.shields.io/badge/@schalkventer-red?logo=npm)](https://www.npmjs.com/~schalkventer) 
+[![](https://img.shields.io/badge/-schalkventer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schalkventer/)](https://www.linkedin.com/in/schalkventer/) [![](https://img.shields.io/badge/-@schalkventer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@schalkventer)](https://medium.com/@schalkventer) [![](http://img.shields.io/badge/@schalkventer-red?logo=npm)](https://www.npmjs.com/~schalkventer) ![](https://img.shields.io/github/followers/schalkventer?label=Follow%20me%20on%20Github&style=social) 
 
 
 I general find myself within the worlds of front-end development, 
