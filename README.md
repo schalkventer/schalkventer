@@ -28,7 +28,7 @@ I general find myself within the worlds of front-end development, product design
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/) and [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
+- ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
 - 👨‍🏫 **_Lecturing_** at [University of Pretoria](https://www.up.ac.za/), [Academy of Digital Arts](https://www.ada.ac.za/) and [Noroff Norway](https://www.noroff.no/en/) .
 
