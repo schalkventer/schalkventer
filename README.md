@@ -30,6 +30,8 @@ I general find myself within the worlds of front-end development, product design
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/) and [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
 
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
 
 For everything else and check out [https://schalkventer.me](https://schalkventer.me).
