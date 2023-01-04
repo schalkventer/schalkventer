@@ -12,11 +12,11 @@ I general find myself within the worlds of front-end development, product design
 
 - 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
+- 🐙 **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
+
 - 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
 
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
-
-- 🔐 **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
 
 - 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org), a collection of resources and interviews on mental health and vurnerability within the South Africa tech industry as a means to provide support and destigmatise mental illness.
 
