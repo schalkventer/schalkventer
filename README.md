@@ -30,6 +30,8 @@ I general find myself within the worlds of front-end development, product design
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/) and [Replit](https://replit.com) as part of the team at [Ritza](https://ritza.co/). 
 
+- 👨‍🏫 **_Lecturing_** at [University of Pretoria](https://www.up.ac.za/), [Academy of Digital Arts](https://www.ada.ac.za/) and [Noroff Norway](https://www.noroff.no/en/) .
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
