@@ -38,7 +38,7 @@ product design, managing of communities and mentoring others.
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
-- 👕 **_Product Design Lead_** at [Pattern][(https://www.umazi.io)](https://patternretail.com/), an SaaS platform used by several large South Africa clothing retailers in order to analyse and manage stock.
+- 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com)(https://patternretail.com/), an SaaS platform used by several large South Africa clothing retailers in order to analyse and manage stock.
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
