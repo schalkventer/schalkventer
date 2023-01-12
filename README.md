@@ -26,16 +26,19 @@ product design, managing of communities and mentoring others.
 
 - ✨ **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
 
+- 👨‍🏫 **_Lecturing_** at [University of Pretoria](https://www.up.ac.za/), [Academy of Digital Arts](https://www.ada.ac.za/) and [Noroff Norway](https://www.noroff.no/en/) .
+
 - 🏛️ Software Development for [South African National Treasury](https://www.treasury.gov.za/) as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
 
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
+
+- ✨ **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
-- 👨‍🏫 **_Lecturing_** at [University of Pretoria](https://www.up.ac.za/), [Academy of Digital Arts](https://www.ada.ac.za/) and [Noroff Norway](https://www.noroff.no/en/) .
-
+- 👕 **_Product Design Lead_** at [Pattern][(https://www.umazi.io)](https://patternretail.com/), an SaaS platform used by several large South Africa clothing retailers in order to analyse and manage stock.
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
