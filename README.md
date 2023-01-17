@@ -39,6 +39,21 @@ product design, managing of communities and mentoring others.
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
 - 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
+
+---
+
+## Talks / Interviews / Articles
+
+- 🎤 UX South Africa Conference: [When Design Systems Go Bad](https://www.youtube.com/watch?v=28tvPgD2uh4)
+- 🎤 DevConf South Africa Conference: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
+- 📻 Mycelium Network Podcast: [Episode 007](https://www.youtube.com/watch?v=6ZA3ewSWIt0)
+- 📺 Speaker's Forge: [Not Alone: Mental Health, Vurnerability and Tech](https://www.youtube.com/watch?v=DrSgERjBdxY)
+- 📺 Front-end Development South Africa: [Intro to The Jamstack](https://www.youtube.com/watch?v=yV_w7yWI8Aw)
+- 📺 Front-end Development South Africa: [Preact: A Tale of Two Apporaches]([https://www.youtube.com/watch?v=yV_w7yWI8Aw](https://www.youtube.com/watch?v=Elmn22QJ0sc))
+- ✍ CSS Tricks: [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
+- ✍ freeCodeCamp: [A Guide to GraphQL for front-end developers](https://www.freecodecamp.org/news/graphql-for-front-end-developers-1f59808f4435/)
+- ✍ Prototypr: [Setting yourself up for failure](https://blog.prototypr.io/setting-yourself-up-for-failure-f56a55f53a46)
+
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=schalkventer)
