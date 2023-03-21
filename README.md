@@ -46,6 +46,7 @@ product design, managing of communities and mentoring others.
 
 - 🎤 UX South Africa Conference: [When Design Systems Go Bad](https://www.youtube.com/watch?v=28tvPgD2uh4)
 - 🎤 DevConf South Africa Conference: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
+- 🎤 NodeJS Africa: [The Good Parts: 15 Years Later](https://www.crowdcast.io/e/nodejs-one-africa-2023/1) 
 - 📻 Mycelium Network Podcast: [Episode 007](https://www.youtube.com/watch?v=6ZA3ewSWIt0)
 - 📺 Speaker's Forge: [Not Alone: Mental Health, Vurnerability and Tech](https://www.youtube.com/watch?v=DrSgERjBdxY)
 - 📺 Front-end Development South Africa: [Intro to The Jamstack](https://www.youtube.com/watch?v=yV_w7yWI8Aw)
