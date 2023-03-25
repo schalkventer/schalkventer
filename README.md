@@ -18,8 +18,6 @@ product design, managing of communities and mentoring others.
 
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
 
-- 🧠 **Creator** of [Sourcemaps](http://sourcemaps.org), a collection of resources and interviews on mental health and vurnerability within the South Africa tech industry as a means to provide support and destigmatise mental illness.
-
 ## Previously:
 
 - 📚 **Co-creator** of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
@@ -31,8 +29,6 @@ product design, managing of communities and mentoring others.
 - 🏛️ Software Development for [South African National Treasury](https://www.treasury.gov.za/) as **_Head of Front-end Development_** at [OpenUp](https://openup.org.za/) 
 
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
-
-- ✨ **_Product Design Lead_** at [Umazi](https://www.umazi.io), an identity validation platform that provides the means to share verified identifiable data securely in a decentralised manner.
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
 
