@@ -18,6 +18,8 @@ product design, managing of communities and mentoring others.
 
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
 
+- 🧠 **_Co-host_** of [Mental Health in Tech](https://open.spotify.com/show/2bXtcMRLEwKBPUc4Aadr5O) with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
+
 ## Previously:
 
 - 📚 **Co-creator** of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
