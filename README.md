@@ -18,7 +18,7 @@ product design, managing of communities and mentoring others.
 
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
 
-- 🧠 **_Co-host_** of [Mental Health in Tech](https://open.spotify.com/show/2bXtcMRLEwKBPUc4Aadr5O) with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
+- 🧠 **_Co-host_** of Mental Health in Tech (mhit.org.za)[https://mhit.org.za/] with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
 
 ## Previously:
 
@@ -42,8 +42,9 @@ product design, managing of communities and mentoring others.
 
 ## Talks / Interviews / Articles
 
+-  🎤 DevConf Conference 2023: [Mental Illness and Vurnerability in Tech](https://www.youtube.com/watch?v=Ij23k9Xq0Pk)
 - 🎤 UX South Africa Conference: [When Design Systems Go Bad](https://www.youtube.com/watch?v=28tvPgD2uh4)
-- 🎤 DevConf South Africa Conference: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
+- 🎤 DevConf Conference 2022: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
 - 🎤 NodeJS Africa Conference: [The Good Parts: 15 Years Later](https://www.crowdcast.io/e/nodejs-one-africa-2023/1) 
 - 📻 Mycelium Network Podcast: [Episode 007](https://www.youtube.com/watch?v=6ZA3ewSWIt0)
 - 📺 Speaker's Forge: [Not Alone: Mental Health, Vurnerability and Tech](https://www.youtube.com/watch?v=DrSgERjBdxY)
