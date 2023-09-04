@@ -12,7 +12,7 @@ product design, managing of communities and mentoring others.
 
 - 👪 **_Administrative Director_** at [Front-end Development South Africa (FEDSA)](https://fedsa.org), a non-profit organisation (NPC #: _202015998708_) acting as an administrative umbrella for various projects that facilitate sharing of knowledge between practitioner and aspiring practitioner within the South Africa field of front-end development .
 
-- 📈 **_UI Engineering Lead_** at [Pametrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
+- 📈 **_UI Engineering Lead_** at [Palmetrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
 - 🎓 **_Academic Head_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
 
