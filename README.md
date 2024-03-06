@@ -14,8 +14,6 @@ product design, managing of communities and mentoring others.
 
 - 📈 **_UI Engineering Lead_** at [Palmetrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
-- 🎓 **_Subject Matter Expert (SME)_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
-
 - 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
 
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
@@ -35,6 +33,8 @@ product design, managing of communities and mentoring others.
 - 🐣 **_Programme Coordinator_** at [codeX](http://www.projectcodex.co/) of a workplace incubator funded by [The Google Foundation](https://www.google.org/)
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
+
+- 🎓 **_Subject Matter Expert (SME)_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
