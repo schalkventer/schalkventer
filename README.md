@@ -14,9 +14,9 @@ product design, managing of communities and mentoring others.
 
 - 📈 **_UI Engineering Lead_** at [Palmetrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
-- 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
-
 - 🛸 **_Co-administrator_** at [ZA Tech](https://zatech.co.za/), a 15 000+ member Slack workspace used by the South Africa tech community at large, and it's sister workspace [ZA Product Design](https://zapd.co.za/).
+
+- 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
 
 - 🧠 **_Co-host_** of Mental Health in Tech [mhit.org.za](https://mhit.org.za/) with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
 
