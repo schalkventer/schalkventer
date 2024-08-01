@@ -42,7 +42,9 @@ product design, managing of communities and mentoring others.
 
 ## Talks / Interviews / Articles
 
--  🎤 DevConf Conference 2023: [Mental Illness and Vurnerability in Tech](https://www.youtube.com/watch?v=Ij23k9Xq0Pk)
+- 🎤 UX South Africa 2024: Everyday Form Footguns
+- 🎤 Wordcamp 2024: CSS View Transitions: The Future of Animation on the Web
+- 🎤 DevConf Conference 2023: [Mental Illness and Vurnerability in Tech](https://www.youtube.com/watch?v=Ij23k9Xq0Pk)
 - 🎤 UX South Africa Conference: [When Design Systems Go Bad](https://www.youtube.com/watch?v=28tvPgD2uh4)
 - 🎤 DevConf Conference 2022: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
 - 🎤 NodeJS Africa Conference: [The Good Parts: 15 Years Later](https://www.crowdcast.io/e/nodejs-one-africa-2023/1) 
