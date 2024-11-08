@@ -42,6 +42,7 @@ product design, managing of communities and mentoring others.
 
 ## Conference Talks / Interviews / Articles
 
+- 🎤 UX South Africa 2024: The Future of UI Animation
 - 🎤 PyConZA 2024: Mental Illness and Vurnerability in Tech
 - 🎤 UX South Africa 2024: Everyday Form Footguns
 - 🎤 Wordcamp 2024: CSS View Transitions: The Future of Animation on the Web
