@@ -14,7 +14,7 @@ product design, managing of communities and mentoring others.
 
 - 📈 **_UI Engineering Lead_** at [Palmetrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
-- 🎓 **_Technical Mentor_** at [Global Employment Challenge](https://globalemploymentchallenge.com/), an organization that provides daily support and guidance to Software Engineering graduates from African universities/colleges during their first year working as professionals in the industry.
+- 🎓 **_Technical Mentor_** at [Global Employment Challenge](https://globalemploymentchallenge.com/), an organization that provides one-on-one support to Software Engineering graduates from African universities/colleges during their first year working as professionals in the industry.
 
 - 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
 
