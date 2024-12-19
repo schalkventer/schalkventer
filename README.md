@@ -14,6 +14,8 @@ product design, managing of communities and mentoring others.
 
 - 📈 **_UI Engineering Lead_** at [Palmetrics](https://www.palmetrics.co.za), a SaaS platform that connects to [Takealot](https://www.takealot.com/) as means to provide merchants with actionable data analysis, filters and programmable alerts. 
 
+- 🎓 **_Technical Mentor_** at [Global Employment Challenge](https://globalemploymentchallenge.com/), an organization that provides daily support and guidance to Software Engineering graduates from African universities/colleges during their first year working as professionals in the industry.
+
 - 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
 
 - 🧠 **_Co-host_** of Mental Health in Tech [mhit.org.za](https://mhit.org.za/) with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
@@ -34,7 +36,7 @@ product design, managing of communities and mentoring others.
 
 - 🌍 Exploring the intersection between technology, social good and civic-engagement as **_Community Manager_** at [Codebridge](https://www.meetup.com/Codebridge/)
 
-- 🎓 **_Subject Matter Expert (SME)_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
+- 💡 **_Subject Matter Expert (SME)_** at [Codespace](https://www.codespace.co.za/), an Income Share Agreement (ISA) driven organization providing candidates access to a Software Engineering programme for free, which they partially repay as part of their salary only once employed within their field of study.
 
 - ✍️ **_Technical writer_** for [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/) and [Replit](https://replit.com). 
 
