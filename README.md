@@ -16,11 +16,11 @@ product design, managing of communities and mentoring others.
 
 - 🎓 **_Technical Mentor_** at [Global Employment Challenge](https://globalemploymentchallenge.com/), an organization that provides one-on-one support to Software Engineering graduates from African universities/colleges during their first year working as professionals in the industry.
 
-- 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
-
 - 🧠 **_Co-host_** of Mental Health in Tech [mhit.org.za](https://mhit.org.za/) with [Schalk Neethling](https://github.com/schalkneethling), a podcast about honest discussion around difficulty topics related to mental health in the tech industry. 
 
 ## Previously:
+
+- 👕 **_Product Design Lead_** at [Pattern](https://www.patternretail.com), a SaaS platform used by several large South Africa retailers in order to analyse and manage stock.
 
 - 📚 **Co-creator** of the [Bachelor of Arts in Interaction Design](https://creativeacademy.ac.za/schools-degrees/interaction-design/) NQF LEVEL 7 Graduate Degree at [CTCA](https://creativeacademy.ac.za/) with [Carly Withtaker](http://carlywhitaker.co.za/).
 
