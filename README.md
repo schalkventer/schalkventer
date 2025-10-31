@@ -44,6 +44,7 @@ product design, managing of communities and mentoring others.
 
 ## Conference Talks / Interviews / Articles
 
+- 🎤 Google DevFest 2025: Simple Sync Engines
 - 🎤 UX South Africa 2024: The Future of UI Animation
 - 🎤 PyConZA 2024: Mental Illness and Vurnerability in Tech
 - 🎤 UX South Africa 2024: Everyday Form Footguns
@@ -51,7 +52,7 @@ product design, managing of communities and mentoring others.
 - 🎤 DevConf Conference 2023: [Mental Illness and Vurnerability in Tech](https://www.youtube.com/watch?v=Ij23k9Xq0Pk)
 - 🎤 UX South Africa Conference: [When Design Systems Go Bad](https://www.youtube.com/watch?v=28tvPgD2uh4)
 - 🎤 DevConf Conference 2022: [Introduction to Web Components](https://www.youtube.com/watch?v=mdN6zvljCjM)
-- 🎤 NodeJS Africa Conference: [The Good Parts: 15 Years Later](https://www.crowdcast.io/e/nodejs-one-africa-2023/1) 
+- 🎤 NodeJS Africa Conference: The Good Parts: 15 Years Later
 - 📻 Mycelium Network Podcast: [Episode 007](https://www.youtube.com/watch?v=6ZA3ewSWIt0)
 - 📻 Kode vir Khakis: [Episode 004](https://open.spotify.com/episode/7kYRNxiTHdseTOLMjlphTD)
 - 📺 Speaker's Forge: [Not Alone: Mental Health, Vurnerability and Tech](https://www.youtube.com/watch?v=DrSgERjBdxY)
